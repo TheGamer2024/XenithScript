@@ -1,0 +1,13 @@
+{
+  "name": "xenith-script",
+  "version": "0.1.0",
+  "description": "A simple programming language with it you can build websites",
+  "main": "main.js",
+  "bin": {
+    "xsc": "xsc.js",
+    "xs": "xs.js"
+  },
+  "keywords": [],
+  "author": "HannesScript",
+  "license": "ISC"
+}

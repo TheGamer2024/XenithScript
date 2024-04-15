@@ -1,0 +1,1 @@
+var x = 12; const y = 24; for (var i = 0; i < 5; i++) { console.log(i); } if (1 == 2) { console.log(' asede '); } else if (2 == 3) { console.log(' jdigl '); } else { console.log(' aloikdjusfoj '); } var array = [' Name ', ' Alter ', ' Ort ']; /* Das ist ein Kommentar */
