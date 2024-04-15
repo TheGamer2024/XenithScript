@@ -19,7 +19,6 @@ function isString(argument) {
     return (argument.startsWith("'") && argument.endsWith("'") || argument.startsWith('"') && argument.endsWith('"'));
 }
 
-
 function extractContent(argument) {
     return argument.slice(1, -1).trim();
 }
